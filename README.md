@@ -13,7 +13,7 @@ Each function should return a value, depending on the task.
 You can run some built-in tests witn the `node test.js` command.  
 You can run the .js files independently with the `node filename.js` command.
 
-*Don't forget to add me (ricsimarta) as a contributer to this repository!*
+*Don't forget to add me (ricsimarta) as a contributor to this repository!*
 
 ---
 
@@ -116,7 +116,7 @@ example running with the same drinks array:
 }
 ```
 
-*Don't forget to add me (ricsimarta) as a contributer to this repository!*
+*Don't forget to add me (ricsimarta) as a contributor to this repository!*
 
 ---
 
